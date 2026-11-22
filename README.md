@@ -2,6 +2,8 @@
 
 An AI-powered application that automatically screens and ranks resumes against a given Job Description (JD). Built using **Streamlit**, **Groq API**, and **Pydantic**.
 
+🚀 **[Click here to view the Live App!](https://ai-resume-screener-eg9jffpgyxymeyayzdom.streamlit.app)**
+
 ## 🚀 Features
 
 - **Automated Resume Parsing:** Extracts structured data (Name, Skills, Education, Experience, Projects) from PDF and DOCX files.
@@ -28,3 +30,6 @@ An AI-powered application that automatically screens and ranks resumes against a
 ├── .env                 # Environment variables (API keys - NOT pushed to Git)
 ├── .gitignore           # Git ignore file
 └── resumes/             # Folder to store sample resumes
+
+## 🌐 Live Demo
+Check out the live app here: [AI Resume Screener]([https://ai-resume-screener-eg9jffpgyxymeyayzdom.streamlit.app])
