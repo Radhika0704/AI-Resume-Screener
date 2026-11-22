@@ -1,0 +1,12 @@
+# Virtual Environment & Secrets
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Faltu uv files
+uv.lock
+pyproject.toml
+.python-version
+src/
+rough.py
